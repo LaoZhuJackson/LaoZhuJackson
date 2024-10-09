@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LaoZhuJackson
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java,c++
-- 💞️ I’m looking to collaborate on how to code
-- 📫 My email:1536075646@qq.com
+# 欢迎
+* 我的邮箱：1536075646@qq.com
+# Github Stats✨
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LaoZhuJackson&show_icons=true&theme=dark&count_private=true)
 
 <!---
 LaoZhuJackson/LaoZhuJackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
