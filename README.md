@@ -1,5 +1,5 @@
-# 欢迎
-* 我的邮箱：1536075646@qq.com
+# Welcome
+* E-mail：1097694383@qq.com
 # Github Stats✨
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LaoZhuJackson&show_icons=true&theme=dark&count_private=true)
 
